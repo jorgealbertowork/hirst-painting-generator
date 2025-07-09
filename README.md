@@ -1,6 +1,6 @@
 # Hirst Painting Generator
 
-Inspired on the series of paintings "Spots", by Damien Hirst, this simple program generates an image on screen using the Colorgram.py (to generate a RGB color palette) and the Turtle Graphics libraries (to draw the image).
+Inspired on the series of paintings "Spots", by Damien Hirst, this simple program generates an image on screen using the Colorgram.py (to generate an RGB color palette) and the Turtle Graphics libraries (to draw the image).
 
 **Dependencies:** 
 - Colorgram.py
