@@ -3,7 +3,7 @@ import turtle
 
 import colorgram as cg
 
-colors = cg.extract('pallete.jpg', 10)
+colors = cg.extract('palette.jpg', 10)
 rgb_colors = []
 for color in colors:
     r = color.rgb.r
