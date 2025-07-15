@@ -6,5 +6,8 @@ Inspired on the series of paintings "Spots", by Damien Hirst, this simple progra
 - Colorgram.py
 - Turtle Graphics
 
-***This was the final exercise of the day 18 of the course "100 Days of Code: The Complete Python Pro Bootcamp", on Udemy.***
+***100 Days of Code: The Complete Python Pro Bootcamp - Day 18***
+
+https://www.udemy.com/course/100-days-of-code
+
 
